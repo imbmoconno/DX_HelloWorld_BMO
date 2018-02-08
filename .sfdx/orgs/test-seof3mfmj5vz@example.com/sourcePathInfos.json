@@ -1,0 +1,231 @@
+[
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518097110692,
+            "changeTime": 1518097110692,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518097110692,
+            "changeTime": 1518097110692,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1518100003349,
+            "changeTime": 1518100003349,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1518097110692,
+            "changeTime": 1518097110692,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO",
+        {
+            "state": "n",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1518098241083,
+            "changeTime": 1518098241083,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/HelloWorld__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/HelloWorld__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2144,
+            "modifiedTime": 1518100003341,
+            "changeTime": 1518100003341,
+            "contentHash": "c5e2f994839a3a9f7fe2e43c5d6ca2b57535fe1a"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/fields/HWCustomField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/fields/HWCustomField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1518100003341,
+            "changeTime": 1518100003341,
+            "contentHash": "00d8326751f132c3dba438a5f2df04e219a1c2c0"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/layouts/HelloWorld__c-HelloWorld Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/layouts/HelloWorld__c-HelloWorld Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2090,
+            "modifiedTime": 1518100003344,
+            "changeTime": 1518100003344,
+            "contentHash": "6335c7ec2a1bc5d9049a21fab79d4c7aa418c78c"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17992,
+            "modifiedTime": 1518100003354,
+            "changeTime": 1518100003354,
+            "contentHash": "f1f9441cc70069a7236a974f0dff899242d9da07"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4600,
+            "modifiedTime": 1518100003356,
+            "changeTime": 1518100003356,
+            "contentHash": "22f42b997123dfec3f9bc0ad5f124ec67e51a1ff"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4600,
+            "modifiedTime": 1518100003358,
+            "changeTime": 1518100003358,
+            "contentHash": "22f42b997123dfec3f9bc0ad5f124ec67e51a1ff"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4938,
+            "modifiedTime": 1518100003360,
+            "changeTime": 1518100003360,
+            "contentHash": "2fa2269500e33ba570300a3991b0699a5a0d364f"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1518100003341,
+            "changeTime": 1518100003341,
+            "contentHash": "d3098b411c09381124e24a1dbd94d65953fa01b3"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518100003340,
+            "changeTime": 1518100003340,
+            "contentHash": "1655b80f3f9732104cdba5a7164ff69917ca2b0e"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/objects/HelloWorld__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518100003341,
+            "changeTime": 1518100003341,
+            "contentHash": "41d09612ae36c1dd976c9578d45e9d009b0a6536"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518100003343,
+            "changeTime": 1518100003343,
+            "contentHash": "7750b885960fe1c220aab8b9450bf9245fddd446"
+        }
+    ],
+    [
+        "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brian.oconnor/Documents/DX_HelloWorld_BMO/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1518100003360,
+            "changeTime": 1518100003360,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
